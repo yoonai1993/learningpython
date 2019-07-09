@@ -1,2 +1,2 @@
 # learningpython
-about basic knowledg and some projects
+about basic knowledge and some projects
